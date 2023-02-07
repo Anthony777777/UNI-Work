@@ -115,5 +115,3 @@ elif winner == "yes" and player1 == "CPU":
 else:
       print("the game is over")
       board()
-
-      test
